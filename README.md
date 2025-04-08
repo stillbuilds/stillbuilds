@@ -15,11 +15,11 @@ Tinkerer turned aspiring indie hacker — building my way out of the factory, on
 
 ## 🛠️ Tech Stack
 
-- Arch Linux / Hyprland
+- Fedora / Hyprland
 - Neovim (NvChad)
 - Next.js / TypeScript / Prisma / PostgreSQL
 - Claude + Open Source LLMs
-- Self-hosted everything (where it counts)
+- Self-hosted (pretty much) everything
 
 ---
 
