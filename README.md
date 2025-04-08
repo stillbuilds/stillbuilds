@@ -11,7 +11,7 @@ Tinkerer turned aspiring indie hacker — building my way out of the factory, on
 
 - Build real tools that are beautiful, useful, and non-exploitative
 - Replace my factory income with indie revenue or remote work by **Oct 10, 2025**
-- Share the journey publicly with transparency, intent, and maybe a little anime
+- Share the journey publicly with transparency, intent, and maybe some jokes
 
 ## 🛠️ Tech Stack
 
