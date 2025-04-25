@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jord (aka stillbuilds)
 
-Tinkerer turned aspiring indie hacker — building my way out of the factory, one project at a time.
+Tinkerer turned aspiring indie hacker. Building my way out of the factory, one project at a time.
 
 ## 🔨 What I’m Working On
 
